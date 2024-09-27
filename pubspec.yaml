@@ -144,11 +144,11 @@ flutter:
       fonts:
         - asset: fonts/iconfont.ttf
 
-    - family: NotoSansSC
-      fonts:
-        - asset: fonts/NotoSansSC-Regular.ttf
-        - asset: fonts/NotoSansSC-Medium.ttf
-        - asset: fonts/NotoSansSC-SemiBold.ttf
+    # - family: NotoSansSC
+    #   fonts:
+    #     - asset: fonts/NotoSansSC-Regular.ttf
+    #     - asset: fonts/NotoSansSC-Medium.ttf
+    #     - asset: fonts/NotoSansSC-SemiBold.ttf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
